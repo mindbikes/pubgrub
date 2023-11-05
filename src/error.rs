@@ -2,7 +2,7 @@
 
 //! Handling pubgrub errors.
 
-// Change more
+// Change more, ci should be enabled
 
 use thiserror::Error;
 
