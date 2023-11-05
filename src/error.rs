@@ -2,7 +2,7 @@
 
 //! Handling pubgrub errors.
 
-// Change more, ci should be enabled, merge queue should be enabled
+// Change more, ci should be enabled, merge queue should be enabled, if branch should work
 
 use thiserror::Error;
 
